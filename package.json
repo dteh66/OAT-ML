@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sentence-type-classifier": "^2.0.0"
+  }
+}
